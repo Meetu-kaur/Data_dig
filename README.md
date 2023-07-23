@@ -1,2 +1,2 @@
-# Data_dig
+# Data dig
 SQL project from Khan Academy
